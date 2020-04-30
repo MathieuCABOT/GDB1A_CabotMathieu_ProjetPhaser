@@ -1,0 +1,10 @@
+INPUTS:
+
+"A" pour tirer
+
+"Flèches directionnel" pour ce déplacer
+
+"ESPACE" pour ouvrir une porte
+
+"ESPACE" pour enlever la boite de dialogue
+
